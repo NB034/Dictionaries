@@ -36,7 +36,7 @@
 
 <br/>
 
-* Диаграмма используемой приложением базы данных.
+* Диаграмма используемой приложением базы данных. Скрипт для создания базы находится в папке Resources в DictionariesApp.DataAccess.
 
 <!-- Original size: 942x653 -->
 <img src="https://user-images.githubusercontent.com/104451273/207116730-a68a41b4-09a4-4292-b3a1-1cdd32efb9ff.png" width="707" height="490" />
