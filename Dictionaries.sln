@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesApp.DataAccess", "DictionariesApp.DataAccess\DictionariesApp.DataAccess.csproj", "{10EB57B7-04FB-4BB0-814D-02499FADFA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesApp", "DictionariesApp\DictionariesApp.csproj", "{6DAF7A92-AF17-4F9B-B9B7-18741DB2D326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EB57B7-04FB-4BB0-814D-02499FADFA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EB57B7-04FB-4BB0-814D-02499FADFA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EB57B7-04FB-4BB0-814D-02499FADFA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EB57B7-04FB-4BB0-814D-02499FADFA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAF7A92-AF17-4F9B-B9B7-18741DB2D326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAF7A92-AF17-4F9B-B9B7-18741DB2D326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAF7A92-AF17-4F9B-B9B7-18741DB2D326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAF7A92-AF17-4F9B-B9B7-18741DB2D326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC29BC9-5A78-4A1A-AC8C-77C5E9CAE15D}
+	EndGlobalSection
+EndGlobal
